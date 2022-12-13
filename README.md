@@ -15,6 +15,7 @@
 5. <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 6. <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 7. <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">
+8. <img src="https://upload.wikimedia.org/wikipedia/fr/2/2e/Java_Logo.svg" height="28" style="filter: brightness(0) invert(1)">
 
 ### 프레임워크
 
@@ -31,6 +32,7 @@
 11. <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 12. <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 13. <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+14. <img src="https://mediapipe.dev/assets/img/brand.svg" height="28" style="filter: brightness(0) invert(1)">
 
 ## 스택
 
