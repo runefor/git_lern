@@ -7,3 +7,5 @@
 프레임워크 : unity, express, react, spring, flask, wordpress, mediapipe, tensorflow, keras
 
 주력 언어 : 많이 써 본건 javascript, 생산적인 활동한 건 python
+
+이상 자기 소개를 마침니다.
